@@ -1,6 +1,6 @@
 <!--![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)-->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Khizer</h2>
+<img alt="Hand Wave" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Khizer</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Khizer -->
 
@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at khizeraminai@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/KingMinai/KingMinai/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/KingMinai/KingMinai/master/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
