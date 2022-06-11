@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering as a second year student.\
 🌱 &nbsp;I'm on track for learning more about Block Chain, Reverse Engineering, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I enjoy making art and learning philosophy.\
+✍️ &nbsp;In my free time, I enjoy making art, learning philosophy and playing chess.\
 ✉️ &nbsp;You can shoot me an email at khizeraminai@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
