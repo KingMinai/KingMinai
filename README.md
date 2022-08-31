@@ -11,7 +11,6 @@
 🌱 &nbsp;I'm on track for learning more about Block Chain, Reverse Engineering, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I enjoy making art, learning philosophy and playing chess.\
 ✉️ &nbsp;You can shoot me an email at khizeraminai@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/KingMinai/khizerahmedminai/master/Night-Coding.gif" align="right"/>
 
